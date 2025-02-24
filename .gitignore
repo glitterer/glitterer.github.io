@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+
+
+echo "node_modules
+.next
+out
+.DS_Store" > .gitignore
+
+
